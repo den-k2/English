@@ -24,7 +24,7 @@ One website for finding résumé templates is: resume.com/sample
 ## 14. Scheduling Your Interview
 In your follow-up call, you may initially speak with a secretary or front-dest person. Regardless, state your reason for calling, give your name, and ask to speak with the appropriate person.
 
-> [!Here are some ways to explain the purpose of your call:]
+> [!Note] Here are some ways to explain the purpose of your call:
 > Hello. This is..., and I'm calling about a résumé I submitted a few days ago for the... position. Could I speak with the HR manager, please? 
 > 
 >Hi there. My name is... I'm just calling in regards to the... vacancy listed on... dot com. Could you confirm whether the vacancy is still available?
