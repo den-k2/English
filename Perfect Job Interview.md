@@ -1,16 +1,16 @@
 # Perfect Job Interview
 **Content**
-- [Preparing Your Resume](#PreparingYourResume)
+- [11. Preparing Your Resume](#11. Preparing Your Resume)
 - [14. Scheduling Your Interview](#14. Scheduling Your Interview)
 - [17. Preparing for the Interview](#17. Preparing for the Interview)
 - [18. Making a Good Self-Self-Introduction](#18. Making a Good Self-Self-Introduction)
 - [19. What are your strengths?](#19. What are your strengths?)
-- [Whatareyourweaknesses](#Whatareyourweaknesses)
+- [20. What are your weaknesses?](#20. What are your weaknesses?)
 - [29. Questions About Experience](#29. Questions About Experience)
 - [39. Questions About Character and Knowledge](#39. Questions About Character and Knowledge)
 - [41. Other Common Questions](#41. Other Common Questions)
 - [47. Asking the Interviewer Questions](#47. Asking the Interviewer Questions)
-## Preparing Your Resume
+## 11. Preparing Your Resume
 **Here are a few key things to keep in mind when creating your résumé:**
 1. Make it clear and simple (avoid full sentences for responsibilities) 
 2. All key information should be easy to see 
@@ -24,7 +24,7 @@ One website for finding résumé templates is: resume.com/sample
 ## 14. Scheduling Your Interview
 In your follow-up call, you may initially speak with a secretary or front-dest person. Regardless, state your reason for calling, give your name, and ask to speak with the appropriate person.
 
-> [!Info] Here are some ways to explain the purpose of your call: 
+> [!Here are some ways to explain the purpose of your call:]
 > Hello. This is..., and I'm calling about a résumé I submitted a few days ago for the... position. Could I speak with the HR manager, please? 
 > 
 >Hi there. My name is... I'm just calling in regards to the... vacancy listed on... dot com. Could you confirm whether the vacancy is still available?
@@ -102,7 +102,7 @@ For modesty: One personality trait which has really helped me in the past is…
 > 
 > Believe it or not, there were times when 5 people were shouting at me at the same time and asking me to complete a step or confirm something 'right now'. By learning how to maintain a sense of empathy and at the same time detach my more immediate or basic emotions, I was able to handle the problem very effectively, whereas most of my colleagues and even my supervisor would get pretty upset and often frazzled whenever customers got frustrated. Regulating emotions is key here. So, I think through this experience, in particular, I became really good at dealing with intense situations, and that has come in handy many times since.
 
-## Whatareyourweaknesses
+## 20. What are your weaknesses?
 ##### Tip: 
 Don’t go out of your way to make yourself look bad. Don't kill your chances of getting the position by saying something so negative it's clear to the interviewer that you're the wrong choice. Instead, talk about something very specific that you’re 'not great at', and then focus on what you're doing to improve that particular thing. Maybe you’ve already made progress toward turning it into a strength!
 ##### Useful ways to express weakness:
