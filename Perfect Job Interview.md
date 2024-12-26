@@ -5,7 +5,6 @@
 - [17. Preparing for the Interview](#17-Preparing-for-the-Interview)
 - [18. Making a Good Self-Self-Introduction](#18-Making-a-Good-Self-Self-Introduction)
 - [19. What are your strengths?](#19-What-are-your-strengths?)
-- [[#19. What are your strengths?]]
 - [20. What are your weaknesses?](#20-What-are-your-weaknesses?)
 - [29. Questions About Experience](#29-Questions-About-Experience)
 - [39. Questions About Character and Knowledge](#39-Questions-About-Character-and-Knowledge)
