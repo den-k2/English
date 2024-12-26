@@ -8,8 +8,8 @@
 - [20. What are your weaknesses?](#20.-What-are-your-weaknesses?)
 - [29. Questions About Experience](#29.-Questions-About-Experience)
 - [39. Questions About Character and Knowledge](#39.-Questions-About-Character-and-Knowledge)
-- [41. Other Common Questions](#41.-Other-Common-Questions)
-- [47. Asking the Interviewer Questions](#47.-Asking-the-Interviewer-Questions)
+- [41. Other Common Questions](#41.-other-common-questions)
+- [47. Asking the Interviewer Questions](#47.-asking-the-interviewer-questions)
 ## 11. Preparing Your Resume
 **Here are a few key things to keep in mind when creating your résumé:**
 1. Make it clear and simple (avoid full sentences for responsibilities) 
